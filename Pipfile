@@ -9,6 +9,8 @@ pandas = "==2.2.2"
 matplotlib = "==3.9.4"
 pylint = "*"
 black = "*"
+pytest = "*"
+pytest-cov = "*"
 
 [dev-packages]
 

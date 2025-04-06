@@ -3,3 +3,5 @@
 
 #Data files
 data/
+
+*__pycache__/
